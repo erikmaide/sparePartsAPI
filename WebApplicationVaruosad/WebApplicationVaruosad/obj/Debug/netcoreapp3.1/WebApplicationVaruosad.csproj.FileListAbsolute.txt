@@ -1,0 +1,59 @@
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.exe
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.deps.json
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.runtimeconfig.json
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.runtimeconfig.dev.json
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.dll
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.pdb
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.AssemblyInfoInputs.cache
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.AssemblyInfo.cs
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.csproj.CoreCompileInputs.cache
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationVaruosad.StaticWebAssets.Manifest.cache
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationVaruosad.StaticWebAssets.xml
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplicationVaruosad.styles.css
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.RazorTargetAssemblyInfo.cache
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.dll
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.pdb
+C:\Users\timo\source\repos\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.genruntimeconfig.cache
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.exe
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.deps.json
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.runtimeconfig.json
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.runtimeconfig.dev.json
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.dll
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.pdb
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.csprojAssemblyReference.cache
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.AssemblyInfoInputs.cache
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.AssemblyInfo.cs
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.csproj.CoreCompileInputs.cache
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationVaruosad.StaticWebAssets.Manifest.cache
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationVaruosad.StaticWebAssets.xml
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplicationVaruosad.styles.css
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.RazorTargetAssemblyInfo.cache
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.dll
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.pdb
+C:\Users\Maide\Desktop\hajus\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.genruntimeconfig.cache
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.exe
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.deps.json
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.runtimeconfig.json
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.runtimeconfig.dev.json
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.dll
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\bin\Debug\netcoreapp3.1\WebApplicationVaruosad.pdb
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.csprojAssemblyReference.cache
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.AssemblyInfoInputs.cache
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.AssemblyInfo.cs
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.csproj.CoreCompileInputs.cache
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationVaruosad.StaticWebAssets.Manifest.cache
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\staticwebassets\WebApplicationVaruosad.StaticWebAssets.xml
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplicationVaruosad.styles.css
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.RazorTargetAssemblyInfo.cache
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.dll
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.pdb
+C:\Users\nelmaid\Desktop\Varuosade API PageSize ja PageNumber (1)\Varuosade API\WebApplicationVaruosad\WebApplicationVaruosad\obj\Debug\netcoreapp3.1\WebApplicationVaruosad.genruntimeconfig.cache
